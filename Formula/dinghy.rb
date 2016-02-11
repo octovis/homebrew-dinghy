@@ -1,7 +1,7 @@
 class Dinghy < Formula
   desc "faster, friendlier Docker on OS X"
   homepage "https://github.com/octovis/dinghy"
-  url "https://github.com/octovis/dinghy.git", :tag => "v5.0.0", :revision => "285b2532b619037d2d10b12f6e917d75c78c3853"
+  url "https://github.com/octovis/dinghy.git", :tag => "v5.1.0", :revision => "006f6a44926383ceabb4f3a656fd0f793bd104bf"
   head "https://github.com/octovis/dinghy.git", :branch => :master
 
   depends_on "unfs3"
